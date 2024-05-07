@@ -1,0 +1,7 @@
+*.yaml
+.git/
+.gitignore
+Dockerfile
+Dockerfile.devel
+README.md
+gpu-feature-discovery
