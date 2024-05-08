@@ -3,7 +3,7 @@ module github.com/NVIDIA/gpu-feature-discovery
 go 1.20
 
 require (
-	github.com/Longpai/xdxml-lib v0.0.0-20240507024300-5b535d8c4999
+	github.com/Longpai/xdxml-lib v0.0.0-20240507085424-770b26c93f59
 	github.com/NVIDIA/go-gpuallocator v0.2.3
 	github.com/NVIDIA/go-nvml v0.12.0-1
 	github.com/NVIDIA/k8s-device-plugin v0.14.1-0.20230711144459-1f3dd06456e8
@@ -18,7 +18,7 @@ require (
 
 require (
 	github.com/NVIDIA/gpu-monitoring-tools v0.0.0-20201222072828-352eb4c503a7 // indirect
-	github.com/chen-mao/go-xdxml v1.0.3-0.20240506081204-e1fbc1f95cfd // indirect
+	github.com/chen-mao/go-xdxml v1.0.3-0.20240507064721-089cc5c00b45 // indirect
 	github.com/container-orchestrated-devices/container-device-interface v0.5.4 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect

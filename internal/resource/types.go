@@ -29,9 +29,6 @@ type Manager interface {
 //
 //go:generate moq -out device_mock.go . Device
 type Device interface {
-	GetAttributes() (map[string]interface{}, error)
 	GetName() (string, error)
 	GetTotalMemoryMB() (uint64, error)
-	GetDeviceHandleFromMigDeviceHandle() (Device, error)
-	GetCudaComputeCapability() (int, int, error)
 }

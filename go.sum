@@ -74,6 +74,8 @@ github.com/GoogleCloudPlatform/k8s-cloud-provider v1.18.1-0.20220218231025-f1181
 github.com/JeffAshton/win_pdh v0.0.0-20161109143554-76bb4ee9f0ab/go.mod h1:3VYc5hodBMJ5+l/7J4xAyMeuM2PNuepvHlGs8yilUCA=
 github.com/Longpai/xdxml-lib v0.0.0-20240507024300-5b535d8c4999 h1:EQorMgPMyQ53yac1sH3AW/Mtl8IRen82ZdYC72I0DN4=
 github.com/Longpai/xdxml-lib v0.0.0-20240507024300-5b535d8c4999/go.mod h1:GEQkUbBrzCaQD2r4h/Of2qxWXPA3N2slIj+HZQ+olng=
+github.com/Longpai/xdxml-lib v0.0.0-20240507085424-770b26c93f59 h1:mEd9h5G+VtwnwwwuI1eezEiAJLnDC/QRCOXDQDL6zKs=
+github.com/Longpai/xdxml-lib v0.0.0-20240507085424-770b26c93f59/go.mod h1:s0SQRstmgc0o61Dy1so8M/8Rhw3Hw1mtj5YK1Bs2ZQ8=
 github.com/MakeNowJust/heredoc v1.0.0/go.mod h1:mG5amYoWBHf8vpLOuehzbGGw0EHxpZZ6lCpQ4fNJ8LE=
 github.com/Microsoft/go-winio v0.4.14/go.mod h1:qXqCSQ3Xa7+6tgxaGTIe4Kpcdsi+P8jBhyzoq1bpyYA=
 github.com/Microsoft/hcsshim v0.0.0-20190417211021-672e52e9209d/go.mod h1:Op3hHsoHPAvb6lceZHDtd9OkTew38wNoXnJs8iY7rUg=
@@ -154,6 +156,8 @@ github.com/checkpoint-restore/go-criu v0.0.0-20181120144056-17b0214f6c48/go.mod 
 github.com/cheekybits/genny v0.0.0-20170328200008-9127e812e1e9/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
 github.com/chen-mao/go-xdxml v1.0.3-0.20240506081204-e1fbc1f95cfd h1:JbrnPQG5S5O+3zXkLqgsfIU8mnz2EWsv0oT+eWMXe70=
 github.com/chen-mao/go-xdxml v1.0.3-0.20240506081204-e1fbc1f95cfd/go.mod h1:IGA2gLcTDpgrl31EAxkyFuPV3FgT9WGV8MFw2JG8+o8=
+github.com/chen-mao/go-xdxml v1.0.3-0.20240507064721-089cc5c00b45 h1:6FkdONvuUIbo0pL+fZpPtQClw+jpOA4cxr6T9gphHds=
+github.com/chen-mao/go-xdxml v1.0.3-0.20240507064721-089cc5c00b45/go.mod h1:IGA2gLcTDpgrl31EAxkyFuPV3FgT9WGV8MFw2JG8+o8=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
